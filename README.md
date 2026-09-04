@@ -58,7 +58,7 @@ In the sandbox's `2026-08-26.dahlia` API version, an end-of-period Portal cancel
 
 ## Deploy
 
-Deploy the repository as a Next.js app, set the six environment variables from `.env.example`, and register `https://YOUR_DOMAIN/api/webhooks` as a Stripe webhook endpoint. Set `NEXT_PUBLIC_APP_URL` to the same HTTPS origin.
+Deploy the repository as a Next.js app, set the five environment variables from `.env.example`, and register `https://YOUR_DOMAIN/api/webhooks` as a Stripe webhook endpoint. Set `NEXT_PUBLIC_APP_URL` to the same HTTPS origin.
 
 ## AI-use disclosure
 
