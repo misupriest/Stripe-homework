@@ -99,13 +99,6 @@ export default async function Home({ searchParams }: HomeProps) {
 
       <footer className={styles.footer}>
         <span>Llama Inc. subscription prototype</span>
-        <a
-          href="https://github.com/misupriest/Stripe-homework"
-          rel="noreferrer"
-          target="_blank"
-        >
-          View source
-        </a>
       </footer>
     </div>
   );

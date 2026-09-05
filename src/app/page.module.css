@@ -268,7 +268,7 @@
 .footer {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 24px;
   border-top: 1px solid var(--cp-border);
   padding-block: 24px 32px;

@@ -13,7 +13,6 @@ export function getStripe(): Stripe {
     appInfo: {
       name: "llama-stripe-subscriptions",
       version: "0.1.0",
-      url: "https://github.com/misupriest/Stripe-homework",
     },
   });
 
